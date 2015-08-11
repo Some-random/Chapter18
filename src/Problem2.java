@@ -12,6 +12,7 @@ public class Problem2 {
             int tempvalue = cards[i];
             cards[i] = cards[temp];
             cards[temp] = tempvalue;
+            
         }
     }
 
